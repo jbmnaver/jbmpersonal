@@ -13,7 +13,7 @@ public class shampoo {
 		
 		
 		int result1 = num1+num2;
-		
+		sc.close();
 		
 		
 		
