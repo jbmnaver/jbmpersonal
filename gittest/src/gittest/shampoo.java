@@ -12,7 +12,7 @@ public class shampoo {
 		int num2 = sc.nextInt();
 		
 		
-		int result1 = num1+num2;
+		int result2 = num1+num2;
 		
 		
 		
