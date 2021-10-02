@@ -17,7 +17,7 @@ public class shampoo {
 		String str = "gmagma";
 		System.out.println(str);
 		sc.close();
-
+jkgjk;
 	}
 
 	public int a;
