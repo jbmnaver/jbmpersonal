@@ -1,19 +1,11 @@
 package gittest;
 
-import java.util.Scanner;
 
 public class shampoo {
 
 	public static void main(String[] args) {
 		System.out.println("가나다라마바사");
 		
-		Scanner sc = new Scanner(System.in);
-		int num1 = sc.nextInt();
-		int num2 = sc.nextInt();
-		
-		
-		int result1 = num1+num2;
-		System.out.println(result1);
 		String str = "gmagma";
 		System.out.println(str);
 	}
